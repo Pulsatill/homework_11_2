@@ -9,4 +9,5 @@ def title_str(user_str):
     return title(lower(user_str))
 
 def lower_str(user_str):
+    """abracadabra"""
     return lower(user_str)
